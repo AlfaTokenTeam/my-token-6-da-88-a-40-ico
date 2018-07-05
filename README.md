@@ -1,2 +1,11 @@
-# my-token-6-da-88-a-40-ico
-My Token 6DA88A40 ICO Smart Contract
+# My Token 6DA88A40 ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project My Token 6DA88A40
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
